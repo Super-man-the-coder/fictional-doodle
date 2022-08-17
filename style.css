@@ -1,0 +1,39 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 15px;
+
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 15px;
+}
+#sketchToBeDrawn{
+    color: aquamarine;
+}
+h1{
+   
+    color: bisque;
+    font-family: cursive;
+    font-size: 50px
+}
+p{
+   
+    color: sandybrown;
+    font-family: cursive;
+    font-size: 50px
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+    text-align: left;
+   
+    
+    
+}
